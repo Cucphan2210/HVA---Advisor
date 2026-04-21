@@ -3471,6 +3471,3 @@ st.markdown("""
         </p>
     </div>
     """, unsafe_allow_html=True)
-# Thêm vào cuối code của bạn
-st.sidebar.markdown("### 📱 Quét mã để vào web:")
-st.sidebar.image("https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://ten-ban.streamlit.app")
